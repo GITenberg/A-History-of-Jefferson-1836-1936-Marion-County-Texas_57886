@@ -1,0 +1,28 @@
+_repo: A-History-of-Jefferson-1836-1936-Marion-County-Texas_57886
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Mrs. Humphry Ward (Mary A. Ward)
+    gutenberg_agent_id: '49489'
+    url: http://www.gutenberg.org/2009/agents/49489
+  - agent_name: Spellings, H. A.
+    gutenberg_agent_id: '49672'
+    url: http://www.gutenberg.org/2009/agents/49672
+  - agent_name: McKay, Arch
+    gutenberg_agent_id: '49671'
+    url: http://www.gutenberg.org/2009/agents/49671
+description: ''
+gutenberg_issued: '2018-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57886'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A History of Jefferson, 1836-1936
+
+  Marion County, Texas'
+url: http://www.gutenberg.org/ebooks/57886
